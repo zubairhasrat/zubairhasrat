@@ -2,9 +2,9 @@
 [![Github](https://img.shields.io/github/followers/zubairhasrat?label=Follow&style=social)](https://github.com/zubairhasrat)
 [![Linkedin](https://img.shields.io/badge/-ZubairAhmed-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zubair-hasrat/)](www.linkedin.com/in/zubair-hasrat/)
 
-## About me 
-I am an experienced Full Stack Web Developer. Proficient in technologies like JavaScript, React, Node and Git. Able to work effectively on independent projects, as well as collaborate in a team setting.
-I'm open-source development enthusiast.
+`🎓 Comsats University`<br/>
+`📧 zubairhasrat@gmail.com`<br/>
+`🏠 Lahore, Pakistan`
 
 
 ### Skills
