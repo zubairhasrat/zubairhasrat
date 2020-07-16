@@ -4,7 +4,7 @@
 [![Facebook](https://img.shields.io/badge/-ZubairAhmed-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/itszubairahmed/)](www.facebook.com/itszubairahmed/)
 
 `🎓 Comsats University`<br/>
-`📧 zubairhasrat@gmail.com`<br/>
+`📧 zubairhasrat48@gmail.com`<br/>
 `🏠 Lahore, Pakistan`
 
 ## Key Skills
