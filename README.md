@@ -7,13 +7,12 @@
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies.
 
 ## 🚀 About Me
-
-- 🔭 I’m currently working on: [Your Current Project]
-- 🌱 I’m currently learning: [React, Node.js, etc.]
-- 👯 I’m looking to collaborate on: [Open-source projects, Hackathons, etc.]
-- 💬 Ask me about: [Web Development, JavaScript, Python, etc.]
+ 
+- 🌱 I’m currently learning: React, Node.js, AI
+- 👯 I’m looking to collaborate on: Open-source projects, Hackathons..
+- 💬 Ask me about: Web Development, JavaScript, Python
 - 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- ⚡ Fun fact: [A fun fact about yourself]
+- ⚡ Fun fact: Sports Lover
 
 ## 🛠️ Languages and Tools
 
