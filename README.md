@@ -35,16 +35,16 @@ I am a seasoned **Principal Software Engineer** with over **6 years of professio
 
 ## 🔥 Featured Projects
 
-### [cite_start][Iyurek Trading Platform](https://iyurek.com)
+### [Iyurek Trading Platform](https://iyurek.com)
 Architected the strategic upgrade from a legacy app to a production-ready **Next.js** platform. Integrated **complex charting**, **Stripe payments**, and **AI strategies**.
 
-### [cite_start][Scantact](https://np.scantact.me/) 
+### [Scantact](https://np.scantact.me/) 
 A full-stack MVP connecting physical and digital worlds via QR codes. Built from zero to one using **Deno** (Backend) and **Preact** (Frontend) with **Server-Sent Events (SSE)** for real-time chat.
 
-### [cite_start][Rosettadocs](https://rosettadocs.com/) 
+### [Rosettadocs](https://rosettadocs.com/) 
 A technical documentation platform featuring deep **GitHub API** integration and **Supabase** for automated repository-to-documentation workflows.
 
-### [cite_start][Hirestream](https://hirestream.com) 
+### [Hirestream](https://hirestream.com) 
 Led the front-end upgrade from **React 16 to 18** and implemented unique element IDs to achieve **80% automation test coverage**.
 
 ## 📈 GitHub Stats
@@ -56,8 +56,8 @@ Led the front-end upgrade from **React 16 to 18** and implemented unique element
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/zubair-hasrat/) [cite: 3]
-- 📧 [Email](mailto:zubairhasrat48@gmail.com) [cite: 3]
+- 💼 [LinkedIn](https://www.linkedin.com/in/zubair-hasrat/)
+- 📧 [Email](mailto:zubairhasrat48@gmail.com)
 - 🐦 [Twitter](https://twitter.com/zubairhasrat)
 
 ---
