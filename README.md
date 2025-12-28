@@ -2,14 +2,14 @@
 
 **Senior Software Architect | Full-Stack Expert | Performance Specialist**
 
-[cite_start]I am a seasoned **Principal Software Engineer** with over **8 years of professional experience** architecting and scaling robust, production-ready applications[cite: 1, 2]. [cite_start]My expertise lies in modern web solutions, system optimization (achieving up to **40% throughput increases**), and leading technical transitions for complex platforms[cite: 2, 11].
+I am a seasoned **Principal Software Engineer** with over **6 years of professional experience** architecting and scaling robust, production-ready applications. My expertise lies in modern web solutions, system optimization (achieving up to **40% throughput increases**), and leading technical transitions for complex platforms.
 
 ## 🚀 Professional Highlights
 
-- [cite_start]🏢 **Current Role:** Senior Software Engineer at **Iyurek**[cite: 2]. [cite_start]I am currently architecting a high-performance trading platform using **Next.js**, **Real-time Sockets**, and **AI strategies**[cite: 2].
-- [cite_start]🛠️ **Past Role:** Principal Software Engineer at **Arbisoft**[cite: 7, 8, 10]. [cite_start]I achieved **94% test coverage** and optimized systems to increase efficiency by **33.3%**[cite: 12, 16].
-- [cite_start]💡 **Core Expertise:** Next.js Architecture, Full-Stack Performance, and Scalable Infrastructure[cite: 2, 11, 59].
-- [cite_start]🌱 **Current R&D:** Deep dive into **Deno-based** microservices and **SSE** for real-time communication[cite: 3].
+- 🏢 **Current Role:** Senior Software Engineer at **Iyurek**. I am currently architecting a high-performance trading platform using **Next.js**, **Real-time Sockets**, and **AI strategies**.
+- 🛠️ **Past Role:** Principal Software Engineer at **Arbisoft**. I achieved **94% test coverage** and optimized systems to increase efficiency by **33.3%**.
+- 💡 **Core Expertise:** Next.js Architecture, Full-Stack Performance, and Scalable Infrastructure.
+- 🌱 **Current R&D:** Deep dive into **Deno-based** microservices and **SSE** for real-time communication.
 
 ## 🛠️ My Tech Stack
 
@@ -35,17 +35,17 @@
 
 ## 🔥 Featured Projects
 
-### [cite_start][Iyurek Trading Platform](https://iyurek.com) [cite: 2]
-[cite_start]Architected the strategic upgrade from a legacy app to a production-ready **Next.js** platform[cite: 2]. [cite_start]Integrated **complex charting**, **Stripe payments**, and **AI strategies**[cite: 2].
+### [cite_start][Iyurek Trading Platform](https://iyurek.com)
+Architected the strategic upgrade from a legacy app to a production-ready **Next.js** platform. Integrated **complex charting**, **Stripe payments**, and **AI strategies**.
 
-### [cite_start][Scantact](https://np.scantact.me/) [cite: 3]
-[cite_start]A full-stack MVP connecting physical and digital worlds via QR codes[cite: 3]. [cite_start]Built from zero to one using **Deno** (Backend) and **Preact** (Frontend) with **Server-Sent Events (SSE)** for real-time chat[cite: 3].
+### [cite_start][Scantact](https://np.scantact.me/) 
+A full-stack MVP connecting physical and digital worlds via QR codes. Built from zero to one using **Deno** (Backend) and **Preact** (Frontend) with **Server-Sent Events (SSE)** for real-time chat.
 
-### [cite_start][Rosettadocs](https://rosettadocs.com/) [cite: 3]
-[cite_start]A technical documentation platform featuring deep **GitHub API** integration and **Supabase** for automated repository-to-documentation workflows[cite: 3].
+### [cite_start][Rosettadocs](https://rosettadocs.com/) 
+A technical documentation platform featuring deep **GitHub API** integration and **Supabase** for automated repository-to-documentation workflows.
 
-### [cite_start][Hirestream](https://hirestream.com) [cite: 18]
-[cite_start]Led the front-end upgrade from **React 16 to 18** and implemented unique element IDs to achieve **80% automation test coverage**[cite: 21, 23].
+### [cite_start][Hirestream](https://hirestream.com) 
+Led the front-end upgrade from **React 16 to 18** and implemented unique element IDs to achieve **80% automation test coverage**.
 
 ## 📈 GitHub Stats
 
@@ -56,8 +56,8 @@
 
 ## 📫 Connect with Me
 
-- [cite_start]💼 [LinkedIn](https://www.linkedin.com/in/zubair-hasrat/) [cite: 3]
-- [cite_start]📧 [Email](mailto:zubairhasrat48@gmail.com) [cite: 3]
+- 💼 [LinkedIn](https://www.linkedin.com/in/zubair-hasrat/) [cite: 3]
+- 📧 [Email](mailto:zubairhasrat48@gmail.com) [cite: 3]
 - 🐦 [Twitter](https://twitter.com/zubairhasrat)
 
 ---
